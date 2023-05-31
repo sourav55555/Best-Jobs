@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "logo": "chip1.png",
+      "name": "Technology",
+      "available_posts": 100
+    },
+    {
+      "id": 2,
+      "logo": "business1.png",
+      "name": "Healthcare",
+      "available_posts": 50
+    },
+    {
+      "id": 3,
+      "logo": "accounts1.png",
+      "name": "Finance",
+      "available_posts": 75
+    },
+    {
+      "id": 4,
+      "logo": "social-media 1.png",
+      "name": "Education",
+      "available_posts": 25
+    }
+  ]
